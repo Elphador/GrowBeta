@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# GrowBeta
-Instagram Followers Automation Tool
-=======
 
 ## GROWBETA - Automated Instagram Followers
 just reverse enginered version of [GrowBeta Apk](https://goog.d)
@@ -47,4 +43,3 @@ and enter everything when prompoted
 - Adjust interval to prevent detection
 - Educational purposes only 
 - thanks the application developer @tigraytech
->>>>>>> master
